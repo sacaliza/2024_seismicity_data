@@ -4,6 +4,8 @@ File final_base_phd.csv contains 197 earthquakes in the Añelo region, registere
 
 Data were used for the 2024 paper "SEISMOTECTONIC AND GRAVIMETRIC ANALYSIS OF THE CENTRAL NEUQUEN BASIN" by Correa-Otto et al.
 
-All data is free and open to the public, pending attibution, please cite this data the following way:
+All data is free and open to the public, as long as attibution is given, please cite this data the following way:
 
-Pending paper doi and citation.
+Pending paper citation.
+
+https://doi.org/10.1016/j.jsames.2024.105036
